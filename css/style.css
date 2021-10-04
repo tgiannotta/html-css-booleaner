@@ -6,41 +6,45 @@
 }
 /*COMMON*/
 .contenitore{
-    width: 99%;
-    
+    width: 70%;
     margin: auto;
 
 }
-
 /*HEADER*/
-header{
-    background-color: #4ea0ff;
+#sfondo{
     background-image: url(../img/pattern.png);
+    background-color: #4ea0ff;   
     height: 190px;
-    
 }
-.logo{
-    width: 20%;
-}
-#logo-img{
+#logo{
+    width: 25%;
     margin-top: 90px;
-    margin-left: 10px;
 }
-main h1{
-    font-size: 80px;
-    margin-top: 20px;
+h1{
+    font-size: 50px;
 }
-#autore{
+
+.autore{
     font-size: 30px;
+    color: #808080;
+}
+#data{
+    font-size: 15px;
+    color: #808080;
 }
 #booleaner{
     color: #2daee6; 
 }
-.immagini{
-    margin-top: 25px;
-   
-   
+
+.fonte{
+    font-size: 15px;
+    font-style: italic;
 }
-.tim{
-    background-size: cover;
+p{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 15px;
+}
+.evidenziatore{
+    background-color: yellow;
 }
