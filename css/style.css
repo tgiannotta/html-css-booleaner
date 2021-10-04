@@ -7,5 +7,15 @@
 
 /*HEADER*/
 header{
-    background-image: url();
+    background-color: #4ea0ff;
+    background-image: url(../img/pattern.png);
+    height: 190px;
+    
+}
+.logo{
+    width: 20%;
+}
+#logo-img{
+    margin-top: 90px;
+    margin-left: 10px;
 }
