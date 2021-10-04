@@ -48,3 +48,22 @@ p{
 .evidenziatore{
     background-color: yellow;
 }
+ul{
+    margin-top: 15px;
+}
+th{
+    background-color: #20a9e5;
+    color: white;
+    width: 30%;
+    text-align: left;
+}
+#tabella{
+   margin-top: 15px;
+}
+.tsfondo{
+    background-color: #b1e5f2;
+}
+/*FOOTER*/
+footer{
+    margin-top: 20px;
+}
