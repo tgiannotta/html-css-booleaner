@@ -33,8 +33,14 @@ main h1{
 #autore{
     font-size: 30px;
 }
-
 #booleaner{
-    color: #2daee6;
+    color: #2daee6; 
+}
+.immagini{
+    margin-top: 25px;
    
+   
+}
+.tim{
+    background-size: cover;
 }
