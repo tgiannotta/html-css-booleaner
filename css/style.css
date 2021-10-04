@@ -4,6 +4,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+/*COMMON*/
+.contenitore{
+    width: 99%;
+    
+    margin: auto;
+
+}
 
 /*HEADER*/
 header{
@@ -18,4 +25,16 @@ header{
 #logo-img{
     margin-top: 90px;
     margin-left: 10px;
+}
+main h1{
+    font-size: 80px;
+    margin-top: 20px;
+}
+#autore{
+    font-size: 30px;
+}
+
+#booleaner{
+    color: #2daee6;
+   
 }
